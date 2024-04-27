@@ -6,10 +6,10 @@ My system is database driven and we use EF Core and SQL to store and manage prod
 One of the unique aspects of our application is the use of machine learning using ML.NET to calculate computer performance. This allows our users to gain insight into how their chosen configuration affects performance, which helps them make informed purchases.
 
 List of technologies (stack):
-ASP.NET Core MVC 8
-HTML/CSS
-JavaScript
-Razor
-EF Core
-SQL
-ML.NET
+ASP.NET Core MVC 8 ,
+HTML/CSS ,
+JavaScript ,
+Razor ,
+EF Core ,
+SQL ,
+ML.NET.
