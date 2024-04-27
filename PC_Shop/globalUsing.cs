@@ -1,0 +1,11 @@
+﻿global using PC_Shop.Models.Data;
+global using PC_Shop.Interfaces;
+global using PC_Shop.Models.Context;
+global using Microsoft.EntityFrameworkCore;
+global using PC_Shop.Repositories;
+global using PC_Shop.Features;
+global using PC_Shop;
+global using Microsoft.ML;
+global using Microsoft.EntityFrameworkCore;
+global using System.Runtime.Intrinsics.Arm;
+global using Microsoft.ML.Data;

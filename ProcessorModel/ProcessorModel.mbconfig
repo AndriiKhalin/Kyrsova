@@ -8,7 +8,7 @@
     "KeepPunctuations": false,
     "AllowQuoting": false,
     "Type": "TabularFile",
-    "FilePath": "D:\\IT\\Repo\\Kyrsova_.NET\\ProcessorModel\\data.txt",
+    "FilePath": "D:\\IT\\Repo\\PC_Shop_.NET\\ProcessorModel\\data.txt",
     "Delimiter": ",",
     "DecimalMarker": ".",
     "HasHeader": true,
@@ -161,7 +161,7 @@
     },
     "Schema": "e0 * e1 * e2 * e3 * e4 * (e5 + e6 + e7 + e8 + e9)",
     "MetricName": "RSquared",
-    "ModelFilePath": "D:\\IT\\Repo\\Kyrsova_.NET\\ProcessorModel\\ProcessorModel.mlnet"
+    "ModelFilePath": "D:\\IT\\Repo\\PC_Shop_.NET\\ProcessorModel\\ProcessorModel.mlnet"
   },
   "Type": "TrainingConfig",
   "Version": 5,

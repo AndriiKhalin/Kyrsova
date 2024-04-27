@@ -15,7 +15,7 @@ namespace ProcessorModel
 {
     public partial class ProcessorModel
     {
-        public const string RetrainFilePath =  @"D:\IT\Repo\Kyrsova_.NET\ProcessorModel\data.txt";
+        public const string RetrainFilePath =  @"D:\IT\Repo\PC_Shop_.NET\ProcessorModel\data.txt";
         public const char RetrainSeparatorChar = ',';
         public const bool RetrainHasHeader =  true;
         public const bool RetrainAllowQuoting =  false;
